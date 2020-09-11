@@ -1069,7 +1069,7 @@ Project Page
   justify-self: end;
 }
 .project-footer a:hover {
-  color: var(--clr-primary-1);
+  color: var(--clr-primary-6);
 }
 .projects-page-center {
   display: grid;
